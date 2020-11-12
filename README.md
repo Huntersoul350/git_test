@@ -1,0 +1,1 @@
+This is Myung's first step to making a git project!
